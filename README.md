@@ -103,12 +103,15 @@ git clone --depth 1 https://github.com/Slahhud/SMl.git
 
 ### 4. Install
 
-Move files and remove unnecessary ones:
+Move files to make it easier:
 ```
 mv SMLoadr/{package.json,SMLoadr.js} ./
-rm -r SMLoadr
-```
 
+```
+NOTE IF THIS COMMAND DOES NOT WORK USE:
+```
+mv {package.json,SMLoadr.js} ./
+```
 Now we install what we've downloaded:
 ```
 npm install
