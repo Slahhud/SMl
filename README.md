@@ -98,8 +98,8 @@ pkg install nodejs git
 ### 3. Download
 First download the latest version from the repo:
 ```
-git clone --depth 1 
-```https://github.com/Slahhud/SMl.git
+git clone --depth 1 https://github.com/Slahhud/SMl.git
+```
 
 ### 4. Install
 
